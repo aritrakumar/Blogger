@@ -18,7 +18,7 @@ Bloggler is a web application that enables users to create, edit, delete, and fi
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/itsaruproy/bloggler-frontend`
+1. Clone the repository: `git clone https://github.com/aritrakumar/bloggler-frontend`
 2. Install dependencies: `npm install`
 3. Start the frontend: `npm start`
 
